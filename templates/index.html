@@ -9,27 +9,34 @@
 </head>
 <body>
 
-    <div class="container">
+<div class="container">
 
-        <h1>🩺 Data Doctor Pro</h1>
+    <h1>🩺 Data Doctor Pro</h1>
 
-        <p>
-            Upload • Diagnose • Clean • Download
-        </p>
+    <p>Upload • Diagnose • Clean • Download</p>
 
-        <form action="#" method="POST" enctype="multipart/form-data">
+    <form method="POST" enctype="multipart/form-data">
 
-            <input type="file" name="file">
+        <input
+            type="file"
+            name="file"
+            accept=".csv"
+            required
+        >
 
-            <br><br>
+        <br><br>
 
-            <button type="submit">
-                Upload Dataset
-            </button>
+        <button type="submit">
+            Upload Dataset
+        </button>
 
-        </form>
+    </form>
 
-    </div>
+    {% if message %}
+        <h3>{{ message }}</h3>
+    {% endif %}
+
+</div>
 
 </body>
 </html>
