@@ -101,29 +101,9 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-*(Add screenshot here)*
-
----
-
-### Dataset Analysis
-
-*(Add screenshot here)*
-
----
-
-### Cleaned Dataset
-
-*(Add screenshot here)*
-
----
-
 ## 📊 Sample Dataset
 
-A sample CSV file is included in the `sample_data` folder to test the application.
+A sample CSV file is included as sample_dataset.csv
 
 ---
 
