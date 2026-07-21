@@ -1,0 +1,15 @@
+Student_ID,Name,Age,Department,CGPA,Attendance,City
+101,Alice,20.0,CSE,8.7,92.0,Hyderabad
+102,Bob,21.0,AIML,7.9,88.0,Bangalore
+103,Charlie,21.33,CSE,9.1,95.0,Delhi
+104,David,22.0,Unknown,8.2,90.0,Mumbai
+105,Eva,20.0,DS,8.5,85.0,Kolkata
+106,Frank,21.0,CSE,8.5,90.33,Chennai
+107,Grace,23.0,AIML,9.4,98.0,Unknown
+108,Harry,22.0,DS,7.5,80.0,Pune
+109,Ivy,20.0,CSE,8.9,91.0,Hyderabad
+110,Jack,21.0,AIML,8.1,89.0,Bangalore
+111,Unknown,22.0,CSE,8.3,90.0,Delhi
+112,Liam,21.33,DS,7.8,90.33,Mumbai
+113,Noah,24.0,CSE,9.6,99.0,Hyderabad
+114,Olivia,20.0,AIML,8.5,87.0,Unknown

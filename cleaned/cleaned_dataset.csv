@@ -1,0 +1,16 @@
+Student_ID,Name,Age,Gender,Department,Semester,CGPA,Attendance,Email,City
+101,Alice,20,Female,CSE,4,8.7,92,alice@example.com,Hyderabad
+102,Bob,21,Male,IT,5,7.9,85,bob@example.com,Mumbai
+103,Charlie,22,Male,CSE,6,9.1,96,charlie@example.com,Bangalore
+104,David,20,Male,ECE,4,8.223076923076924,88,david@example.com,Chennai
+105,Eva,21,Female,CSE,5,8.5,91,eva@example.com,Delhi
+106,Frank,23,Male,IT,7,6.9,75,frank@example.com,Kolkata
+107,Grace,20,Female,AIML,4,9.4,98,grace@example.com,Pune
+108,Henry,22,Male,CSE,6,7.2,80,henry@example.com,Hyderabad
+109,Isha,21,Female,DS,5,8.9,95,isha@example.com,Unknown
+110,Jack,20,Male,CSE,4,8.1,89,jack@example.com,Mumbai
+111,Alice,20,Female,CSE,4,8.7,92,alice@example.com,Hyderabad
+112,Kevin,22,Male,ECE,6,5.8,68,kevin@example.com,Chennai
+113,Lisa,21,Female,AIML,5,9.3,97,lisa@example.com,Pune
+114,Mike,23,Male,IT,7,8.223076923076924,70,mike@example.com,Kolkata
+115,Nina,20,Female,DS,4,8.4,90,nina@example.com,Delhi
